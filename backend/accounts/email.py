@@ -7,7 +7,6 @@ import email.policy
 import smtplib
 from email.message import EmailMessage
 
-
 class EmailService:
 
     def __init__(self):
